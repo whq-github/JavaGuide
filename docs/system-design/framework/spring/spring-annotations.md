@@ -47,8 +47,7 @@
 - [11. 测试相关](#11-%e6%b5%8b%e8%af%95%e7%9b%b8%e5%85%b3)
 
 <!-- /TOC -->
-### 0.前言
-本文已经收录进我的 75K Star 的 Java 开源项目 JavaGuide：[https://github.com/Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)。
+
 
 ### 1. `@SpringBootApplication`
 
